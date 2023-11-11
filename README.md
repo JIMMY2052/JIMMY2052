@@ -2,7 +2,7 @@
 
 <img align="left"  width="47%" height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiron9586&langs_count=8" />
 
-<img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+
 
 
 
