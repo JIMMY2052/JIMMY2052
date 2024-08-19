@@ -1,6 +1,7 @@
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=JIMMY2052&show_icons=true&theme=onedark" />
 
-<img align="left"  width="47%" src=https://github.com/JIMMY2052/github-readme-stats/>
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIMMY2052&layout=compact" />
+
 
 
 
